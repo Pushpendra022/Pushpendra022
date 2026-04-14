@@ -23,58 +23,10 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages  
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
-</p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring-boot"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql"/>
 
-### ⚙️ Backend  
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot"/>
-  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/>
-</p>
-
-### 🗄️ Databases  
-<p>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
-</p>
-
-### 🎨 Frontend (Basic)  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-</p>
-
-### 🧰 Tools  
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
-</p>
-
----
-
-## 🧠 Featured Projects
-
-### 🏨 Hotel Management System  
-🔹 Built using Spring Boot & REST APIs  
-🔹 Manages bookings, customers, and operations  
-🔹 Designed with modular and scalable architecture  
-
-### 🧠 AI Emotion Detector  
-🔹 Real-time emotion detection using AI  
-🔹 Backend-driven processing and analysis  
-🔹 Focus on performance and accuracy  
-
-### 📰 Fake News Detection System  
-🔹 Machine Learning-based classification  
-🔹 Detects misleading information  
-🔹 Optimized for data processing and prediction  
-
----
 
 ## 📊 GitHub Analytics
 
