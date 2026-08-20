@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pushpendra Solanki  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Java+%7C+Spring+Boot+Specialist;Building+Scalable+Systems;Turning+Ideas+Into+Reality&center=true&width=500&height=45">
+  <img src="Backend & AI Engineer | Python, Java | Retrieval, Evaluation, Memory Systems;Building+Scalable+Systems;Turning+Ideas+Into+Reality&center=true&width=500&height=45">
 </p>
 
 
