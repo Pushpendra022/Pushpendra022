@@ -1,25 +1,29 @@
 # 👋 Hi, I'm Pushpendra Solanki  
 
 <p align="center">
-  <img src="Backend & AI Engineer | Python, Java | Retrieval, Evaluation, Memory Systems;Building+Scalable+Systems;Turning+Ideas+Into+Reality&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Backend+%26+AI+Engineer;Python+%7C+Java+%7C+Retrieval+%7C+Evaluation;Memory+Systems+%7C+Backend+Engineering;Building+and+Testing+Real+Systems">
 </p>
 
 
 ## 🚀 About Me
   
-💻 Backend Developer specializing in **Java, Spring Boot & REST APIs**  
-⚙️ Focused on **scalable backend systems & clean architecture**  
-🧠 Exploring **AI-powered applications & intelligent systems**  
+💻 Backend & AI Engineer working with **Python, Java, APIs & Databases**  
+🧠 Building and evaluating **retrieval, long-term memory & AI systems**  
+⚙️ Interested in **backend infrastructure, evaluation, benchmarking & system reliability**  
+🔬 I enjoy turning problems into **measurable experiments**, investigating failures, and improving systems based on evidence  
+☕ Also experienced with **Java, Spring Boot, JPA/Hibernate & REST APIs**
 
-> I build backend systems that are efficient, scalable, and production-ready.
+> I build and evaluate systems by measuring first, understanding failures, and improving what actually matters.
 
 ---
 
 ## 📈 Current Focus
 
-- 🚀 Mastering backend architecture & system design  
-- ⚙️ Building scalable real-world applications  
-- 🧠 Exploring advanced Spring Boot & microservices  
+- 🧠 Building and evaluating **AI memory & retrieval systems**
+- 🔬 Designing **benchmarks, evaluations & reproducible experiments**
+- 🐍 Improving my **Python backend & systems engineering** skills
+- ⚙️ Building reliable and scalable **backend systems**
+- 🚀 Learning more about **AI infrastructure, agents & long-term memory**
 
 ---
 
@@ -38,9 +42,10 @@
 
 ## ⚡ Developer Philosophy
 
-> "Great backend systems are invisible — they just work, scale, and never fail."
+> "Measure first. Understand the failure. Then improve the system."
 
 ---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
