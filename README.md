@@ -75,13 +75,11 @@ I turn system behavior into **measurable experiments** — designing benchmarks,
 <div align="center">
 
 <img
-  src="https://ssr-contributions-svg.vercel.app/_/Pushpendra022?chart=calendar&format=svg&dark=true&colors=161B22,21262D,1F6FEB,388BFD,58A6FF,FFFFFF"
+  src="./metrics.plugin.isocalendar.svg"
   width="100%"
-  alt="Pushpendra's GitHub contribution activity"
+  alt="GitHub contribution activity"
 />
-
-<sub>Live GitHub contribution activity</sub>
-
+<sub>Live contribution chart</sub>
 </div>
 
 ---
