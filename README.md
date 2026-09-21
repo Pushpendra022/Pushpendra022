@@ -76,7 +76,7 @@ I turn system behavior into **measurable experiments** — designing benchmarks,
 <div align="center">
 
 <img
-  src="https://ghchart.rshah.org/58A6FF/Pushpendra022"
+  src="https://ghchart.rshah.org/6B7280/Pushpendra022"
   width="100%"
   alt="Pushpendra Solanki's GitHub Contribution Chart"
 />
