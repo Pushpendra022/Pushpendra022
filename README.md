@@ -10,11 +10,17 @@
 />
 
 <a href="https://www.linkedin.com/in/pushpendra-solanki-557600335/">
-  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF"
+    alt="LinkedIn"
+  />
 </a>
 &nbsp;
 <a href="mailto:pushpendrasolanki022@gmail.com">
-  <img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/>
+  <img
+    src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=EA4335"
+    alt="Email"
+  />
 </a>
 
 </div>
@@ -33,13 +39,14 @@ I turn system behavior into **measurable experiments** — designing benchmarks,
 
 ## Current Focus
 
-| | |
+| Area | Focus |
 |---|---|
 | **AI Memory & Retrieval** | Long-term memory and retrieval systems |
 | **Evaluation** | Benchmarks and reproducible experiments |
-| **Backend Engineering** | Reliable and scalable services |
+| **Python & Systems Engineering** | Improving Python backend and systems engineering skills |
+| **Backend Engineering** | Reliable and scalable backend services |
 | **System Reliability** | Measurement, debugging and failure analysis |
-| **AI Systems** | Agents, retrieval and infrastructure |
+| **AI Infrastructure** | Agents, retrieval and long-term memory systems |
 
 ---
 
@@ -47,7 +54,10 @@ I turn system behavior into **measurable experiments** — designing benchmarks,
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,spring,postgres,mysql,docker,linux,git,github&theme=dark" alt="Tech Stack"/>
+<img
+  src="https://skillicons.dev/icons?i=python,java,spring,postgres,mysql,docker,linux,git,github&theme=dark"
+  alt="Tech Stack"
+/>
 
 <br>
 
@@ -66,12 +76,12 @@ I turn system behavior into **measurable experiments** — designing benchmarks,
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Pushpendra022&bg_color=0D1117&color=8B949E&line=58A6FF&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true&hide_title=true&grid=false&radius=8&height=230&days=30"
+  src="https://ghchart.rshah.org/58A6FF/Pushpendra022"
   width="100%"
-  alt="Pushpendra's recent GitHub activity"
+  alt="Pushpendra Solanki's GitHub Contribution Chart"
 />
 
-<sub>Rolling 30-day GitHub contribution activity</sub>
+<sub>Live GitHub contribution activity</sub>
 
 </div>
 
