@@ -69,20 +69,7 @@ I turn system behavior into **measurable experiments** — designing benchmarks,
 
 </div>
 
----
-## GitHub Activity
 
-<div align="center">
-
-<img
-  src="./metrics.plugin.isocalendar.svg"
-  width="100%"
-  alt="GitHub contribution activity"
-/>
-<sub>Live contribution chart</sub>
-</div>
-
----
 
 <div align="center">
 
